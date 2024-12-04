@@ -1,1 +1,1 @@
-Designed a basic tic tac toe game with C++ intigrated with HTML and CSS.
+Designed a basic tic tac toe game using C++ intigrated with HTML and CSS.
